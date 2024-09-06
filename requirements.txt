@@ -1,0 +1,12 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+unstructured[md]
+langchain-text-splitters
+nltk
+langchain_chroma
+langchainhub
+langchain_google_genai
+Flask
+langchain-google-genai
